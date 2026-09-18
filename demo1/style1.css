@@ -1,0 +1,28 @@
+body{
+	background-color:green;
+}
+h1{
+	color:white;
+	background-color:black;
+	font-family:jokerman;
+	font-size:100px;
+	font-weight:800;
+	text-align:top;
+	
+}
+p{
+	color:red;
+	background-color:yellow;
+	font-family:italic;
+	font-size:50px;
+	font-variant:small-caps;
+	text-shadow:2px 2px 5px;
+	border:5px solid black;
+	text-decoration-style:dotted;
+	text-align:middle;
+	word-spacing:30px;
+	letter-spacing:2px;
+	line-height:1;
+	text-indent:100px;
+	text-align:justify;
+}
