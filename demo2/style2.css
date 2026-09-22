@@ -1,0 +1,28 @@
+body{
+	background-color:lightblue;
+}
+h1{ color:white;
+	background-color:black;
+	font-family:jokerman;
+	border-bottom-style:dashed;
+	border-bottom-color:white;
+	font-size:100px;
+}
+h2{
+	background-color:lightyellow;
+	font-size:50px;
+	border-top-style:dashed;
+	border-top-color:black;
+	border-bottom-style:dashed;
+	font-family:italic;
+	
+}
+p{
+	font-family:jokerman;
+	border-bottom-color:black;
+	border-bottom-style:dotted;
+	border-collapse:initial;
+	border-top-style:dotted;
+	border-top-color:black;
+     
+}
